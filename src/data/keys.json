@@ -1,0 +1,63 @@
+[
+  {
+    "key": "c",
+    "notes": ["c", "d", "e", "f", "g", "a", "b"],
+    "relative": "a",
+    "type": "major"
+  }, {
+    "key": "c#",
+    "notes": ["c#", "d#", "f", "f#", "g#", "a#", "c"],
+    "relative": "a#",
+    "type": "major"
+  }, {
+    "key": "d",
+    "notes": ["d", "e", "f#", "g", "a", "b", "c#"],
+    "relative": "b",
+    "type": "major"
+  }, {
+    "key": "d#",
+    "notes": ["d#", "f", "g", "g#", "a#", "c", "d"],
+    "relative": "c",
+    "type": "major"
+  }, {
+    "key": "e",
+    "notes": ["e", "e#", "g#", "a", "b", "c#", "d#"],
+    "relative": "c#",
+    "type": "major"
+  }, {
+    "key": "f",
+    "notes": ["f", "g", "a", "a#", "c", "d", "e"],
+    "relative": "d",
+    "type": "major"
+  }, {
+    "key": "f#",
+    "notes": ["f#", "g#", "a#", "b", "c#", "d#", "f"],
+    "relative": "d#",
+    "type": "major"
+  }, {
+    "key": "g",
+    "notes": ["g", "a", "b", "c", "d", "e", "e#"],
+    "relative": "e",
+    "type": "major"
+  }, {
+    "key": "g#",
+    "notes": ["g#", "a#", "c", "c#", "d#", "f", "g"],
+    "relative": "f",
+    "type": "major"
+  }, {
+    "key": "a",
+    "notes": ["a", "b", "c#", "d", "e", "f#", "g#"],
+    "relative": "f#",
+    "type": "major"
+  }, {
+    "key": "a#",
+    "notes": ["a#", "c", "d", "d#", "f", "g", "a"],
+    "relative": "g",
+    "type": "major"
+  }, {
+    "key": "b",
+    "notes": ["b", "c#", "d#", "e", "f#", "g#", "a#"],
+    "relative": "g#",
+    "type": "major"
+  }
+]
