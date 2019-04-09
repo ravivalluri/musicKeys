@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Strcture",
-    "slug": "Strcture",
+    "name": "MusicalKeys",
+    "slug": "MusicalKeys",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -14,7 +14,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#587B7F"
+      "backgroundColor": "#B71C1C"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
